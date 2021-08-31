@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/bits-of-good-challenge/static/css/main.84d7c518.chunk.css",
+    "main.js": "/bits-of-good-challenge/static/js/main.4d7babfb.chunk.js",
+    "main.js.map": "/bits-of-good-challenge/static/js/main.4d7babfb.chunk.js.map",
+    "runtime-main.js": "/bits-of-good-challenge/static/js/runtime-main.c6734b5d.js",
+    "runtime-main.js.map": "/bits-of-good-challenge/static/js/runtime-main.c6734b5d.js.map",
+    "static/js/2.745d2552.chunk.js": "/bits-of-good-challenge/static/js/2.745d2552.chunk.js",
+    "static/js/2.745d2552.chunk.js.map": "/bits-of-good-challenge/static/js/2.745d2552.chunk.js.map",
+    "static/js/3.7048a799.chunk.js": "/bits-of-good-challenge/static/js/3.7048a799.chunk.js",
+    "static/js/3.7048a799.chunk.js.map": "/bits-of-good-challenge/static/js/3.7048a799.chunk.js.map",
+    "index.html": "/bits-of-good-challenge/index.html",
+    "static/css/main.84d7c518.chunk.css.map": "/bits-of-good-challenge/static/css/main.84d7c518.chunk.css.map",
+    "static/js/2.745d2552.chunk.js.LICENSE.txt": "/bits-of-good-challenge/static/js/2.745d2552.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c6734b5d.js",
+    "static/js/2.745d2552.chunk.js",
+    "static/css/main.84d7c518.chunk.css",
+    "static/js/main.4d7babfb.chunk.js"
+  ]
+}
