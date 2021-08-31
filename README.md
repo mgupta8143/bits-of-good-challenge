@@ -1,3 +1,5 @@
+I uploaded the site on github pages for convenience. 
+
 # Introduction
 Hello, thank you for showing your interest in Bits of Good! This semester, we are changing how we recruit devs. Instead of asking what flexbox and difference btwn let and var, we would like you to showcase your skills by actually coding out an app! We hope you enjoy the task and feel free to reach out to our email (hello@bitsofgood.org) if you have any questions! 
 
