@@ -1,0 +1,19 @@
+.tag {
+    border: 1px solid gray;
+    border-radius: 2px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    height: 20px;
+    padding: 2px 2px 2px 5px;
+    margin: 2px 2px 2px 2px;
+}
+
+.tag-x {
+    border: none;
+    margin-left: 2px;
+    background-color: white;
+    text-align: center;
+    
+}
